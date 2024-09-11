@@ -1,14 +1,14 @@
-## BaseDeDatos-Practicas
+### BaseDeDatos-Practicas
 
 -[DESCRIPCIÓN DEL PROYECTO](#DESCRIPCION)
 
--[Instruccuinones de instalación](#INSTRUCCIONES)
+-[INSTRUCCIONES DE INSTALACIÓN](#INSTRUCCIONES)
 
--[Uso](#USO)
+-[USO](#USO)
 
--[Contribución](#CONTRIBUCIÓN)
+-[CONTRIBUCIÓN](#CONTRIBUCIÓN)
 
--[Licencia](LICENSE)
+-[LICENCIA](LICENSE)
 
 
 
