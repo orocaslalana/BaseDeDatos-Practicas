@@ -29,7 +29,7 @@ Para instalar sigue los siguientes pasos:
 
 -Abre el archivo ['testjoin.txt'](scripts_sql/testjoin.txt) que contiene la sentencias SQL para crear la base de datos con sus tablas.
 
--Para ver algunos ejemplos de sentencias SQL ver el archivo 'Ejemplos consultas multitablas.txt'
+-Para ver algunos ejemplos de sentencias SQL ver el archivo ['Ejemplos consultas multitablas.txt'](ejemplos/Ejemplos consultas multitablas.txt)
 
 
 
