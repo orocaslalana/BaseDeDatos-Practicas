@@ -31,6 +31,8 @@ Para instalar sigue los siguientes pasos:
 
 -Para ver algunos ejemplos de sentencias SQL ver el archivo ['Ejemplos consultas multitablas.txt'](ejemplos/Ejemplos_consultas_multitablas.txt)
 
+-La imagen ['testjoin.png'](modelo_datos/testjoin.png) muestra la estructura de la base de datos testjoin en el MysSQL Workbench y el archivo [testjoin.mwb](modelo_datos/testjoin.mwb) puede cargarlo en el  MysSQL Workbench para editarlo y modificarlo.
+
 
 
 
