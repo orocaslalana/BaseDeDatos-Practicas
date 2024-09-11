@@ -1,1 +1,6 @@
 Colabora con este proyecto...
+Ten en cuenta al colaborar si utilizas script de otro autor mencionarlo por respeto al autor.
+No todos los colaboradores tienen el mismo nivel de conocimientos y experiencia en SQL, popr tanto, debemos ser consecuentes y tratarnos con respeto a todos los colaboradores.
+Nop se permite ofensas ni desprecio a ninguna colaboración.
+En caso de encontrar error en alguna colaboración informarlo sin ofender.
+Gracias a todos aquellos que colaboran.
