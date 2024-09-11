@@ -27,7 +27,7 @@ El MysSQL Workbench se instaló sobre Windows 10 y sobre esta base se desarrolla
 Para instalar sigue los siguientes pasos:
 -Clona el repositorio.
 
--Abre el archivo 'testjoin.txt' que contiene la sentencias SQL para crear la base de datos con sus tablas.
+-Abre el archivo ['testjoin.txt'](scripts_sql) que contiene la sentencias SQL para crear la base de datos con sus tablas.
 
 -Para ver algunos ejemplos de sentencias SQL ver el archivo 'Ejemplos consultas multitablas.txt'
 
