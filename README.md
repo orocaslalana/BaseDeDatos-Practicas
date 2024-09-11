@@ -6,7 +6,7 @@
 
 -[USO](#USO)
 
--[CONTRIBUCIÓN](#CONTRIBUCIÓN)
+-[CONTRIBUCIÓN](#CONTRIBUCION)
 
 -[LICENCIA](LICENSE)
 
@@ -28,7 +28,7 @@ Para instalar sigue los siguientes pasos:
 
 La base de datos "testjoin" se podrá instalar y usar para prácticas de sentencias y ejercicios utilizando las variantes de sentencias de SQL con JOIN. Está hecha con fines educativos y de respaso de lo ya aprendido con anterioridad. No pretende ser un tutorial para aprender SQL.
 
-#CONTRIBUCIÓN:
+#CONTRIBUCION:
 
 Para contribuir con este proyecto:
 1.- Crea un FORK del repositorio del proyecto.
