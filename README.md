@@ -40,7 +40,7 @@ La base de datos "testjoin" se podrá instalar y usar para prácticas de sentenc
 
 
 
-#CONTRIBUCION:
+#CONTRIBUCION
 
 Para contribuir con este proyecto:
 
