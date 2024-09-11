@@ -1,8 +1,8 @@
 ## BaseDeDatos-Practicas
 
--[Descripción](#DESCRIPCIÓN DEL PROYECTO)
+-[DESCRIPCIÓN DEL PROYECTO](#DESCRIPCION)
 
--[Instruccuinones de instalación](#INSTRUCCIONES DE INSTALACIÓN)
+-[Instruccuinones de instalación](#INSTRUCCIONES)
 
 -[Uso](#USO)
 
@@ -12,7 +12,7 @@
 
 
 
-#DESCRIPCIÓN DEL PROYECTO:
+#DESCRIPCION DEL PROYECTO:
 
 En este proyecto hemos incluido una base de datos "testjoin" la cual nos servira para realizar test de sentencias SQL utilizando JOIN, los archivos  necesarios para crear la base de datos y su estructura los podrá encontrar en este repositorio, en las carpetas correspondientes. La base de datos fue creada en MySQL con MysSQL Workbench. También se añaden ejemplo de sentencias de uso de JOIN. 
 El MysSQL Workbench se instaló sobre Windows 10 y sobre esta base se desarrollaron la base de datos y sus pruebas.
